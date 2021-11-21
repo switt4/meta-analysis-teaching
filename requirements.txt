@@ -1,3 +1,2 @@
 nimare
 pytest
-jupyter_contrib_nbextensions
