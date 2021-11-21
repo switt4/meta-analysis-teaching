@@ -1,2 +1,2 @@
-nimare==0.0.8
+nimare
 pytest
