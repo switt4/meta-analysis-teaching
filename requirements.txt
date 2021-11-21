@@ -1,3 +1,4 @@
 nilearn
 nimare
 pandas
+pytest
