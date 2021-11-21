@@ -1,4 +1,4 @@
-#nilearn
 nimare
 pandas
 pytest
+matplotlib
