@@ -1,4 +1,3 @@
 nimare
-pandas
 pytest
-matplotlib
+jupyter_contrib_nbextensions
