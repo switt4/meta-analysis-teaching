@@ -23,3 +23,6 @@ Full credit and thanks to Taylor Salo (@tsalo) and the contributers to [NiMARE](
 
 ### Upload statistical parametric maps
 - [NeuroVault.org](https://neurovault.org/)
+
+### NeuroSynth v2
+- https://compose.neurosynth.org
